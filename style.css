@@ -1,0 +1,22 @@
+.discord{
+    display: flex;
+    font-size: 26px;
+    justify-content: center;
+}
+.canal{
+    display: flex;
+    font-size: 26px;
+    justify-content: center;
+}
+
+.bot{
+    display: flex;
+    font-size: 26px;
+    justify-content: center;
+}
+
+.number-phone{
+    display: flex;
+    font-size: 26px;
+    justify-content: center;
+}
